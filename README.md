@@ -12,7 +12,7 @@ This project was completed as part of the **Digital Egypt Pioneers Initiative (D
 ## 🔧 Tools & Technologies
 
 - **Excel** – Early-stage validation and formatting
-- - **Python** – Data cleaning, feature engineering, forecasting  
+- **Python** – Data cleaning, feature engineering, forecasting  
 - **SQL** – Schema design, normalization, querying  
 - **Tableau / Power BI** – Dashboarding and storytelling  
 - **Prophet & Random Forest** – Time series modeling
@@ -108,7 +108,7 @@ Seasonal trends and holidays were modeled using calendar-based features.
 - ✅ Dashboards Completed (Tableau & Power BI)  
 - ✅ Forecasting Models  
 - ✅ Final Report & Presentation Delivered
-- 
+
 ---
 
 ## 👥 Team
