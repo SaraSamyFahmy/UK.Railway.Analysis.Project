@@ -121,5 +121,5 @@ Seasonal trends and holidays were modeled using calendar-based features.
 ## 📬 Contact
 
 **Sara Samy Fahmy**  
-📧 [Mail][sara.samy.fahmy2@gmail.com]
+📧 [Mail][sara.samy.fahmy2@gmail.com]   
 🔗 [Linkedin][(https://www.linkedin.com/in/sarasamyfahmy/)]
