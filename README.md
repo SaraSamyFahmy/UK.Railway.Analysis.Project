@@ -101,6 +101,16 @@ Seasonal trends and holidays were modeled using calendar-based features.
 
 ---
 
+## ✅ Project Status
+
+- ✅ Data Cleaning & Preprocessing  
+- ✅ Relational DB Design  
+- ✅ Dashboards Completed (Tableau & Power BI)  
+- ✅ Forecasting Models  
+- ✅ Final Report & Presentation Delivered
+- 
+---
+
 ## 👥 Team
 
 - **Supervisor**: Eng. Ahmed Samir  
@@ -110,16 +120,6 @@ Seasonal trends and holidays were modeled using calendar-based features.
 
 ## 📬 Contact
 
-**Ahmed Saad El Fiky**  
-📧 [Mail](sara.samy.fahmy2@gmail.com)  
-🔗 [Linkedin]([https://linkedin.com/in/SaadFiky](https://www.linkedin.com/in/sarasamyfahmy/))
-
----
-
-## ✅ Project Status
-
-- ✅ Data Cleaning & Preprocessing  
-- ✅ Relational DB Design  
-- ✅ Dashboards Completed (Tableau & Power BI)  
-- ✅ Forecasting Models  
-- ✅ Final Report & Presentation Delivered
+**Sara Samy Fahmy**  
+📧 [Mail][sara.samy.fahmy2@gmail.com]
+🔗 [Linkedin][(https://www.linkedin.com/in/sarasamyfahmy/)]
